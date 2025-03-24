@@ -1,0 +1,302 @@
+{
+  "sale": [
+    {
+      "image": "images/gift-normal-img1.webp",
+      "hoverImage": "images/gift-hovar-img1.webp",
+      "name": "Explorer Trio, Gift Set of 3 | Comes in a Gift Box",
+      "price": "₹ 3,447"
+    },
+    {
+      "image": "images/gift-normal-img2.webp",
+      "hoverImage": "images/gift-hovar-img2.webp",
+      "name": "Holiday in a Mug Set of 4| Comes in a Gift Box",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img3.webp",
+      "hoverImage": "images/gift-hovar-img3.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img4.webp",
+      "hoverImage": "images/gift-hovar-img4.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img5.webp",
+      "hoverImage": "images/gift-hovar-img5.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img6.webp",
+      "hoverImage": "images/gift-hovar-img6.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img7.webp",
+      "hoverImage": "images/gift-hovar-img7.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img8.webp",
+      "hoverImage": "images/gift-hovar-img8.webp",
+      "name": "Let's Work Together Mug-Multi",
+      "price": "395"
+    }
+  ],
+  "gifts": [
+    {
+      "image": "images/gift-normal-img1.webp",
+      "hoverImage": "images/gift-hovar-img1.webp",
+      "name": "Explorer Trio, Gift Set of 3 | Comes in a Gift Box",
+      "price": "₹ 3,447"
+    },
+    {
+      "image": "images/gift-normal-img2.webp",
+      "hoverImage": "images/gift-hovar-img2.webp",
+      "name": "Holiday in a Mug Set of 4| Comes in a Gift Box",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img3.webp",
+      "hoverImage": "images/gift-hovar-img3.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img4.webp",
+      "hoverImage": "images/gift-hovar-img4.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img5.webp",
+      "hoverImage": "images/gift-hovar-img5.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img6.webp",
+      "hoverImage": "images/gift-hovar-img6.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img7.webp",
+      "hoverImage": "images/gift-hovar-img7.webp",
+      "name": "Bag 2",
+      "price": "MRP:₹ 595"
+    },
+    {
+      "image": "images/gift-normal-img8.webp",
+      "hoverImage": "images/gift-hovar-img8.webp",
+      "name": "Let's Work Together Mug-Multi",
+      "price": "395"
+    }
+  ],
+  "furnishings": [
+    {
+      "image": "images/Furnishings-normal-img1.webp",
+      "hoverImage": "images/Furnishings-hovar-img1.webp",
+      "name": "Bag 5",
+      "price": "MRP:₹ 995"
+    },
+    {
+      "image": "images/Furnishings-normal-img2.jpg",
+      "hoverImage": "images/Furnishings-hovar-img2.jpg",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    },
+    {
+      "image": "images/Furnishings-normal-img3.webp",
+      "hoverImage": "images/Furnishings-hovar-img3.jpg",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    },
+    {
+      "image": "images/furnishings-normal-img4.jpg",
+      "hoverImage": "images/furnishings-hovar-img4.jpg",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    },
+    {
+      "image": "images/furnishings-normal-img5.jpg",
+      "hoverImage": "images/furnishings-hovar-img5.webp",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    },
+    {
+      "image": "images/furnishings-normal-img6.webp",
+      "hoverImage": "images/furnishings-hovar-img6.webp",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    },
+    {
+      "image": "images/furnishings-normal-img7.webp",
+      "hoverImage": "images/furnishings-hovar-img7.webp",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    },
+    {
+      "image": "images/furnishings-normal-img8.webp",
+      "hoverImage": "images/furnishings-hovar-img8.jpg",
+      "name": "Bag 6",
+      "price": "MRP:₹ 1095"
+    }
+  ],
+  "dining": [
+    {
+      "image": "images/dining-normal-img1.webp",
+      "hoverImage": "images/dining-hovar-img1.webp",
+      "name": "Bag 7",
+      "price": "MRP:₹ 1195"
+    },
+    {
+      "image": "images/dining-normal-img2.webp",
+      "hoverImage": "images/dining-hovar-img2.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/dining-normal-img3.webp",
+      "hoverImage": "images/dining-hovar-img3.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/dining-normal-img4.webp",
+      "hoverImage": "images/dining-hovar-img4.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/dining-normal-img5.webp",
+      "hoverImage": "images/dining-hovar-img5.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/dining-normal-img6.webp",
+      "hoverImage": "images/dining-hovar-img6.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/dining-normal-img7.jpg",
+      "hoverImage": "images/dining-hovar-img7.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/dining-normal-img8.webp",
+      "hoverImage": "images/dining-hovar-img8.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    }
+  ],
+  "bags": [
+    {
+      "image": "images/w-bag1.webp",
+      "hoverImage": "images/w-bag2.webp",
+      "name": "Bag 7",
+      "price": "MRP:₹ 1195"
+    },
+    {
+      "image": "images/w-bag3.webp",
+      "hoverImage": "images/w-bag4.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/w-bag5.webp",
+      "hoverImage": "images/w-bag6.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/w-bag7.webp",
+      "hoverImage": "images/w-bag8.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/w-bag9.webp",
+      "hoverImage": "images/w-bag10.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/bag-normal-img1.webp",
+      "hoverImage": "images/bag-hovar-img1.jpg",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/bag-normal-img2.webp",
+      "hoverImage": "images/bag-hovar-img2.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/bag-normal-img3.webp",
+      "hoverImage": "images/bag-hovar-img3.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    }
+  ],
+  "watches": [
+    {
+      "image": "images/watch-normal-img1.webp",
+      "hoverImage": "images/watch-hovar-img1.webp",
+      "name": "Bag 7",
+      "price": "MRP:₹ 1195"
+    },
+    {
+      "image": "images/watch-normal-img2.webp",
+      "hoverImage": "images/watch-hovar-img2.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/watch-normal-img3.webp",
+      "hoverImage": "images/watch-hovar-img3.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/watch-normal-img4.webp",
+      "hoverImage": "images/watch-hovar-img4.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/watch-normal-img5.webp",
+      "hoverImage": "images/watch-hovar-img5.jpg",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/watch-normal-img6.webp",
+      "hoverImage": "images/watch-hovar-img6.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/watch-normal-img7.webp",
+      "hoverImage": "images/watch-hovar-img7.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    },
+    {
+      "image": "images/watch-normal-img8.jpg",
+      "hoverImage": "images/watch-hovar-img8.webp",
+      "name": "Bag 8",
+      "price": "MRP:₹ 1295"
+    }
+  ]
+}
